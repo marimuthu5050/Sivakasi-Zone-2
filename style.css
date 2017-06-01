@@ -1,0 +1,24 @@
+.header {
+   border: 3px solid #cccccc;
+   border-radius: 15px;
+   background:#eeeeee;
+}
+.upload-code{
+   color:#4f4f4f;
+}
+.upload-controls{
+   border: 3px solid #cccccc;
+   border-radius: 15px;
+   background: #eeeeee;
+}
+.marquee{
+   background:#000000;
+   color:#ffffff;
+   border: 3px solid #cccccc;
+   border-radius: 15px;   
+}
+.download-controls{
+   border: 3px solid #cccccc;
+   border-radius: 15px;
+   background: #eeeeee;
+}
